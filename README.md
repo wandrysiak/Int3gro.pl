@@ -62,14 +62,7 @@ The web panel runs at [int3gro.pl](https://int3gro.pl) on Netlify. A Python pipe
 
 ## Source Code
 
-> **The source code is private, but I'm happy to give access to recruiters who'd like to review the implementation.**
-
-**What I can share on request:**
-
-- Full application code (Next.js 16 + React 19 + TypeScript)
-- Supabase schema, RLS policies, migrations, and Edge Functions
-- Python data pipeline and Allegro integration scripts
-- Architecture docs and incident post-mortems
+> **The source code is private.**
 
 ---
 
