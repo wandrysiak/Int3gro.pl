@@ -204,11 +204,11 @@ graph TB
 
 | Platform | Link |
 |---|---|
-| **Email** | [w.andrysiak.s3@gmail.com](mailto:w.andrysiak.s3@gmail.com) |
+| **Email** | [wandrysiak.it@gmail.com](mailto:wandrysiak.it@gmail.com) |
 | **GitHub** | [wandrysiak](https://github.com/wandrysiak) |
 
 ---
 
 **Int3gro.pl** - connecting automotive wholesale catalogs with Allegro at scale.
 
-<p align="center"><em>Made by Wojciech Andrysiak</em></p>
+<p align="center"><em>Made by Wojciech Andrysiak and Kamil Kaczmarek</em></p>
